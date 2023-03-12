@@ -1,0 +1,10 @@
+{
+	"devDependencies": {
+		"tailwindcss": "^3.2.7"
+	},
+	"scripts": {
+		"how run ?": "npm run w",
+		"w": "npx tailwindcss -i ./src/asset/css/tailwind.css -o ./src/asset/css/style.css --watch",
+		"build": "npx tailwindcss -o ./src/asset/css/style.min.css --minify"
+	}
+}
