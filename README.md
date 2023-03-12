@@ -8,6 +8,9 @@ Install tailwind-html with npm
 
 ```bash
    git clone https://github.com/project-schema/tailwind-html.git
+```
+
+```bash
    cd tailwind-html
 ```
 
