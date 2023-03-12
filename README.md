@@ -7,14 +7,14 @@ You can start Project just clone this repository
 Install tailwind-html with npm
 
 ```bash
-  $ git clone https://github.com/project-schema/tailwind-html.git
-  $ cd tailwind-html
+   git clone https://github.com/project-schema/tailwind-html.git
+   cd tailwind-html
 ```
 
 then,
 
 ```bash
- $ npm i
+   npm i
 ```
 
 ## Deployment
@@ -22,13 +22,13 @@ then,
 Run this porject
 
 ```bash
-  $ npm run w
+   npm run w
 ```
 
 Build this porject for optimize css
 
 ```bash
-  $ npm run build
+   npm run build
 ```
 
 ## 🚀 Author - Abdur shobur
